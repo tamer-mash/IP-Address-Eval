@@ -1,0 +1,1 @@
+/Users/tamermash/AndroidStudioProjects/IPTestApp/app/build/intermediates/cxx/Debug/654h4j29/obj/arm64-v8a

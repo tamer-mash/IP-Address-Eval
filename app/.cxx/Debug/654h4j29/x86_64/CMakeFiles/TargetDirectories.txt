@@ -1,0 +1,3 @@
+/Users/tamermash/AndroidStudioProjects/IPTestApp/app/.cxx/Debug/654h4j29/x86_64/CMakeFiles/myapplication.dir
+/Users/tamermash/AndroidStudioProjects/IPTestApp/app/.cxx/Debug/654h4j29/x86_64/CMakeFiles/edit_cache.dir
+/Users/tamermash/AndroidStudioProjects/IPTestApp/app/.cxx/Debug/654h4j29/x86_64/CMakeFiles/rebuild_cache.dir
